@@ -8,6 +8,7 @@
     "@ledgerhq/hw-app-ada": "^4.33.3",
     "@ledgerhq/hw-app-btc": "^4.33.4",
     "@ledgerhq/hw-app-eth": "^4.32.0",
+    "@ledgerhq/hw-app-kin": "^4.33.4",
     "@ledgerhq/hw-app-str": "^4.32.0",
     "@ledgerhq/hw-app-xrp": "^4.32.0",
     "@ledgerhq/hw-transport-mocker": "^4.32.0",
